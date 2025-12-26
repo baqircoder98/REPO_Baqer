@@ -81,7 +81,7 @@ public:
 
 		printFirstLetterOfEachWord(_Value);
 	};
-	int baqerint () {
+	int baqeahmedmrint () {
 		int x;
 		cout << "pleas Enter an Integer " << endl;
 		cin >> x;
