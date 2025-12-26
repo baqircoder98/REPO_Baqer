@@ -76,10 +76,16 @@ public:
 
 		
 	}
+	
 	void printFirstLetterOfEachWord() {
 
 		printFirstLetterOfEachWord(_Value);
+	};
+	int readInteger() {
+		int x;
+		cout << "pleas Enter an Integer " << endl;
+		cin >> x;
+		return x;
 	}
-
 
 };
